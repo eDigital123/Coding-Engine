@@ -24,8 +24,11 @@ public class ICDCode {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private int codeId;
+	
 	private String icd_index;
+	
 	private Integer icd_code;
+	
 	private String description;
 	
 		
