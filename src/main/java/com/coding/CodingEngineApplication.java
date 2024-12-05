@@ -8,6 +8,7 @@ public class CodingEngineApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CodingEngineApplication.class, args);
+		
 	}
 
 }
